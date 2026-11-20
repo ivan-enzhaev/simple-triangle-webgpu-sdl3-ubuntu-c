@@ -1,0 +1,1 @@
+[Guide](https://ivan-enzhaev.github.io/tutorials/sdl3-webgpu/ubuntu/simple-triangle-webgpu-sdl3-ubuntu-c)
